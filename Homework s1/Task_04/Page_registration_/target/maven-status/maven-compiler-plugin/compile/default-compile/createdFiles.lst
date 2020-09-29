@@ -1,2 +1,5 @@
+models\Users.class
+ru\itis\servlets\UsersServlet.class
 ru\itis\servlets\Main.class
 ru\itis\servlets\SimpleHtmlServlet.class
+models\Users$UsersBuilder.class
