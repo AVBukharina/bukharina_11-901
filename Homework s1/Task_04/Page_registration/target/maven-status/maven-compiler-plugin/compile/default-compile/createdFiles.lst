@@ -1,0 +1,11 @@
+ru\itis\models\User.class
+ru\itis\servlets\ProfileServlet.class
+ru\itis\repositories\RowMapper.class
+ru\itis\repositories\UsersRepository.class
+ru\itis\repositories\SimpleJdbcTemplate.class
+ru\itis\repositories\UsersRepositoryJdbcImpl.class
+ru\itis\servlets\UsersServlet.class
+ru\itis\models\User$UserBuilder.class
+ru\itis\servlets\SignInServlet.class
+ru\itis\servlets\SimpleHtmlServlet.class
+ru\itis\repositories\CrudRepository.class
